@@ -47,7 +47,7 @@ body {
 }
 .logo {
     font-size: 3rem;
-    /* color: var(--text-color); */
+     color: var(--text-color); 
     color: #d81b60;
     font-weight: 800;
     cursor: pointer;
