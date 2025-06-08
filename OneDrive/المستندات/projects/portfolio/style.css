@@ -344,7 +344,7 @@ btn:hover {
     background-color: #242424;
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 0 5px 20px #00ffee;
+   box-shadow: 0 5px 20px #00ffee;
     max-width: 700px;
     text-align: left;
 }
